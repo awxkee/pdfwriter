@@ -18,5 +18,6 @@ let package = Package(
         .binaryTarget(name: "libPDFWriter", path: "Sources/libPDFWriter.xcframework"),
         .binaryTarget(name: "libLibTiff", path: "Sources/libLibTiff.xcframework"),
         .binaryTarget(name: "libLibAesgm", path: "Sources/libLibAesgm.xcframework"),
+        .binaryTarget(name: "libFreeType", path: "Sources/libFreeType.xcframework")
     ]
 )
