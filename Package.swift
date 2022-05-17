@@ -8,7 +8,7 @@ let package = Package(
     products: [
         .library(
             name: "pdfwriter",
-            targets: ["libPDFWriter", "libLibTiff", "libLibAesgm"]),
+            targets: ["libPDFWriter", "libLibTiff", "libLibAesgm", "libFreeType"]),
     ],
     dependencies: [
         .package(url: "https://github.com/awxkee/mozjpeg.swift.git", branch: "master"),
