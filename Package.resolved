@@ -6,7 +6,7 @@
       "location" : "https://github.com/awxkee/libpng.swift.git",
       "state" : {
         "branch" : "master",
-        "revision" : "ac116d07b7f040be1441b016be6f70907b0010c2"
+        "revision" : "18933d568f7d60c7a5db6dbbd0f0694d8ad8c19d"
       }
     },
     {
@@ -15,7 +15,7 @@
       "location" : "https://github.com/awxkee/mozjpeg.swift.git",
       "state" : {
         "branch" : "master",
-        "revision" : "ffef61176ce7bd19e272d18c1ed7a124e451e9c9"
+        "revision" : "83bb67d47c4aa48ec9f94f8541e47fc3e6262772"
       }
     }
   ],

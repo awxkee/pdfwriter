@@ -6,7 +6,7 @@ import PackageDescription
 let package = Package(
     name: "pdfwriter",
     platforms: [
-        .macOS(.v10_11), .iOS(.v12)
+        .macOS(.v11), .iOS(.v12), .macCatalyst(.v14)
     ],
     products: [
         .library(
