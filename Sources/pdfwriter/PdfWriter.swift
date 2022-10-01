@@ -7,4 +7,4 @@
 
 import Foundation
 
-let pdfWriterVersion = "1.0.0"
+let pdfWriterVersion = "1.0.1"
