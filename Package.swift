@@ -14,8 +14,8 @@ let package = Package(
             targets: ["pdfwriter"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/awxkee/mozjpeg.swift.git", branch: "master"),
-        .package(url: "https://github.com/awxkee/libpng.swift.git", branch: "master")
+        .package(url: "https://github.com/awxkee/mozjpeg.swift.git", "1.0.0"..<"2.0.0"),
+        .package(url: "https://github.com/awxkee/libpng.swift.git", "1.0.0"..<"2.0.0")
     ],
     targets: [
         .target(name: "pdfwriter", dependencies: [
